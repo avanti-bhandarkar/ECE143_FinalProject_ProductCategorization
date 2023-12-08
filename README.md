@@ -5,6 +5,7 @@
 --- Data/
 |   +-- makeup_original.csv
 |   +-- cleaned_makeup.csv
+|   +-- withUSE.csv
 |   +-- ingredients.csv
 |   +-- ingredients.txt
 |   +-- colorants.csv
@@ -20,6 +21,7 @@
 * `Data` stores all datasets for analysis.
   * `makeup_original.csv` - dataset from Heroku /makeup API
   * `cleaned_makeup.csv` - dataset after preprocessing
+  *  `withUSE.csv` - cleaned dataset with USE word embeddings saved
   * `ingredients.csv / ingredients.txt` - FDA approved cosmetic ingredients dataset
   * `colorants.csv / colorants.txt` - FDA approved cosmetic colorants dataset
 * `Scripts` stores all Python scripts.
