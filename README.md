@@ -66,19 +66,14 @@ Then, follow these steps:
     ```
 
 ## <div align="center"><span style="color: #e67e22;">3rd Party Modules Required</span></div>
-- **<span style="color: #e74c3c;"> pandas </span>**
-- **<span style="color: #e74c3c;"> numpy </span>**
-- **<span style="color: #e74c3c;"> matplotlib </span>**
-- **<span style="color: #e74c3c;"> seaborn </span>**
+- **<span style="color: #e74c3c;"> Pandas </span>**
+- **<span style="color: #e74c3c;"> Numpy </span>**
+- **<span style="color: #e74c3c;"> Matplotlib </span>**
+- **<span style="color: #e74c3c;"> Seaborn </span>**
 - **<span style="color: #e74c3c;"> NLTK </span>**
-- **<span style="color: #e74c3c;"> spaCy </span>**
-- **<span style="color: #e74c3c;"> gensim </span>**
-- **<span style="color: #e74c3c;"> sklearn </span>**
+- **<span style="color: #e74c3c;"> SpaCy </span>**
+- **<span style="color: #e74c3c;"> Gensim </span>**
+- **<span style="color: #e74c3c;"> Sklearn </span>**
 - **<span style="color: #e74c3c;"> pyLDAvis </span>**
 - **<span style="color: #e74c3c;"> TensorFlow </span>**
-- **<span style="color: #e74c3c;"> openai </span>**
-- **<span style="color: #e74c3c;">  </span>**
-- **<span style="color: #e74c3c;">  </span>**
-- **<span style="color: #e74c3c;">  </span>**
-- **<span style="color: #e74c3c;">  </span>**
-- **<span style="color: #e74c3c;">  </span>**
+- **<span style="color: #e74c3c;"> OpenAI </span>**
