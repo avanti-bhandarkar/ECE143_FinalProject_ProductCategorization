@@ -31,6 +31,7 @@
 --- ECE143_ProductCategorization_Visualizations.ipynb
 --- LDAvis.html
 --- ECE143_Team17_Presentation.pdf
+--- README.md
 ```
 * `Data` stores all datasets for analysis.
   * `makeup_original.csv` - dataset from Heroku /makeup API
@@ -47,7 +48,7 @@
 * `ECE143_ProductCategorization_Visualizations.ipynb` is our visualization notebook, LDA modelling is excluded (check Scripts/lda.py)
 * `LDAvis.html` HTML visualization of Latent Dirichlet Allocation based Topic Modelling
 * `ECE143_Team17_Presentation.pdf` is the pdf of our presentation.
-
+* `README.md`
 ## <div align="center"><span style="color: #e67e22;">Installation</span></div>
 
 Make sure you have Python (version 3.9 or lower) installed on your machine.
@@ -61,19 +62,20 @@ Then, follow these steps:
 
 2. **Install dependencies:**
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+Install libraries mentioned in the 3rd party modules section below. Please note that some of these libraries may require the installation of other supplementary modules.
 
 ## <div align="center"><span style="color: #e67e22;">3rd Party Modules Required</span></div>
-- **<span style="color: #e74c3c;"> Pandas </span>**
-- **<span style="color: #e74c3c;"> Numpy </span>**
-- **<span style="color: #e74c3c;"> Matplotlib </span>**
-- **<span style="color: #e74c3c;"> Seaborn </span>**
-- **<span style="color: #e74c3c;"> NLTK </span>**
-- **<span style="color: #e74c3c;"> SpaCy </span>**
-- **<span style="color: #e74c3c;"> Gensim </span>**
-- **<span style="color: #e74c3c;"> Sklearn </span>**
-- **<span style="color: #e74c3c;"> pyLDAvis </span>**
-- **<span style="color: #e74c3c;"> TensorFlow </span>**
-- **<span style="color: #e74c3c;"> OpenAI </span>**
+- **<span style="color: #e74c3c;"> Pandas - 1.5.3 </span>**
+- **<span style="color: #e74c3c;"> Numpy - 1.23.5 </span>**
+- **<span style="color: #e74c3c;"> Matplotlib - 3.7.1
+</span>**
+- **<span style="color: #e74c3c;"> Seaborn - 0.12.2 </span>**
+- **<span style="color: #e74c3c;"> NLTK - 3.8.1 </span>**
+- **<span style="color: #e74c3c;"> SpaCy - 3.6.1
+ </span>**
+- **<span style="color: #e74c3c;"> Gensim - 4.3.2</span>**
+- **<span style="color: #e74c3c;"> Sklearn - 1.2.2 </span>**
+- **<span style="color: #e74c3c;"> pyLDAvis - 2.1.2 </span>**
+- **<span style="color: #e74c3c;"> Wordcloud - 1.9.2 </span>**
+- **<span style="color: #e74c3c;"> Tensorflow - 2.14.0 </span>**
+- **<span style="color: #e74c3c;"> OpenAI - 0.27.2 </span>**
