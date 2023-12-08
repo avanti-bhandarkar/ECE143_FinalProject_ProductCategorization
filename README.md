@@ -28,9 +28,10 @@
 |   +-- lda.py
 |   +-- models_SVM_TfIdf.ipynb
 |   +-- models_SVM_GPT3.ipynb
+--- ECE143_Group17_Project Proposal.pdf
+--- ECE143_Team17_Presentation.pdf
 --- ECE143_ProductCategorization_Visualizations.ipynb
 --- LDAvis.html
---- ECE143_Team17_Presentation.pdf
 --- README.md
 ```
 * `Data` stores all datasets for analysis.
@@ -44,10 +45,10 @@
   * `preprocessing.py` contains all preprocessing functions used to preprocess the description column from makeup_original.csv
   * `models_SVM_TfIdf.py` contains SVM + Tfidf model for categorization
   * `models_SVM_GPT3.py` contains SVM + GPT3 model for categorization
-
+* `ECE143_Group17_Project Proposal.pdf` is our project proposal
+* `ECE143_Team17_Presentation.pdf` is the pdf of our presentation
 * `ECE143_ProductCategorization_Visualizations.ipynb` is our visualization notebook, LDA modelling is excluded (check Scripts/lda.py)
 * `LDAvis.html` HTML visualization of Latent Dirichlet Allocation based Topic Modelling
-* `ECE143_Team17_Presentation.pdf` is the pdf of our presentation.
 * `README.md`
 ## <div align="center"><span style="color: #e67e22;">Installation</span></div>
 
