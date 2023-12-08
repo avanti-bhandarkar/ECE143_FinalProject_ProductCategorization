@@ -30,7 +30,7 @@
   * `models_SVM_TfIdf.py` contains SVM + Tfidf model for categorization
   * `models_SVM_GPT3.py` contains SVM + GPT3 model for categorization
 
-* `ECE143_ProductCategorization_Visualizations.ipynb` is our visualization notebook
+* `ECE143_ProductCategorization_Visualizations.ipynb` is our visualization notebook, LDA modelling is excluded (check Scripts/lda.py)
 * `LDAvis.html` HTML visualization of Latent Dirichlet Allocation based Topic Modelling
 * `ECE143_Team17_Presentation.pdf` is the pdf of our presentation.
 
