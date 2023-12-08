@@ -13,6 +13,7 @@
 --- Scripts/
 |   +-- utils.py
 |   +-- preprocessing.py
+|   +-- lda.py
 |   +-- models_SVM_TfIdf.py
 |   +-- models_SVM_GPT3.py
 --- ECE143_ProductCategorization_Visualizations.ipynb
